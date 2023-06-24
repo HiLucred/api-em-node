@@ -1,0 +1,15 @@
+{
+  "name": "desafio-01",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Desafio refente ao módulo: Fundamentos do Node.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Gabriel Pedroso",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
+}
